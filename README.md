@@ -63,5 +63,3 @@ Tools: Python, Tensorflow, Keras, Google Colab
 
 
 
-
-
