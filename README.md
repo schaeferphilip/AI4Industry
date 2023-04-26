@@ -16,7 +16,7 @@ By mixed student-engineer/engineer team.
 -----------
 
 
-Development of an insect pest recognition model to be deployed on connected traps.
+Development of an insect pest recognition model to be deployed on connected traps using Computer Vision.
 
 Tools: Python, Tensorflow, Keras, Google Colab
 
